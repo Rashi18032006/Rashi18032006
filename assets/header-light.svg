@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rashi Khandelwal. AI engineer in training. Builds LLM products end to end.">
+  <rect width="1200" height="300" fill="#ffffff"/>
+  <rect x="24" y="24" width="1152" height="252" rx="18" fill="#f6f5f1" stroke="#dedad0"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#59636e">
+    <circle cx="56" cy="56" r="6" fill="#b45309"/>
+    <text x="72" y="61">rashi.index  ·  3 projects  ·  3 internships  ·  b.tech cse '27</text>
+    <text x="1144" y="61" text-anchor="end">jaipur, in</text>
+  </g>
+  <text x="56" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#1f2328" letter-spacing="-1">Rashi Khandelwal</text>
+  <text x="58" y="180" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#59636e">AI engineer in training. I build LLM products end to end: agents, APIs, UI.</text>
+  <rect x="56" y="206" width="700" height="46" rx="10" fill="#ebe8df" stroke="#dedad0"/>
+  <text x="76" y="236" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#1f2328"><tspan fill="#b45309">&gt;</tspan> ask "what does rashi build?"</text>
+  <rect x="408" y="219" width="10" height="20" fill="#b45309">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#59636e">
+    <text x="784" y="226">top_k = 4</text>
+    <text x="784" y="246">answer: grounded ↓</text>
+  </g>
+</svg>
