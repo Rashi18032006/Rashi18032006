@@ -1,52 +1,58 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Rashi Khandelwal. AI engineer in training. Builds LLM products end to end." src="assets/header-light.svg" width="100%">
+  <img alt="Rashi Khandelwal. AI engineer in training. LLM apps from root to bloom." src="assets/header-light.svg" width="100%">
 </picture>
 
-```text
-$ ask "who is rashi?"
-  ↳ searching index ......... 3 projects · 3 internships · 1 degree
-  ↳ retrieved 4 sources ..... answer is grounded, citations inline
-```
+### 🌸 Hello, I'm Rashi
 
-**Rashi Khandelwal** is a final-year B.Tech Computer Science student at JECRC University, Jaipur, who builds AI products end to end: the prompt, the agent graph, the API, the database and the deployed UI <sup>[[1]](#sources) [[2]](#sources)</sup>. She works mostly in Python and TypeScript, with LLM APIs (Gemini, Groq, OpenAI), LangGraph, FastAPI and Next.js <sup>[[1]](#sources) [[2]](#sources) [[3]](#sources)</sup>. Before writing production code she spent ten months running campus placement drives, which is where the habit of owning a thing until it ships comes from <sup>[[4]](#sources)</sup>.
+I'm a final-year B.Tech Computer Science student at JECRC University, Jaipur. I like taking an idea all the way from a prompt to a product people can use: the agent workflow, the retrieval, the API, the database and the interface on top.
 
-> **Status:** open to AI engineer internships (6 months, remote or on-site).
+Before writing production code I spent ten months running campus placement drives at the Training & Placement Office. That taught me to own a thing until it ships, and I bring the same habit to software.
 
-<a id="sources"></a>
-### Sources
+> 🌱 **Open to AI engineer internships** (6 months, remote or on-site).
 
-| # | Source | What it shows | Stack |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
+
+### 🌷 What I've grown
+
+| | Project | What it does | Built with |
 |:-:|---|---|---|
-| 1 | [**AI Exam Paper Generator**](https://github.com/Rashi18032006/Exam_Paper-generator) | Multi-agent LangGraph pipeline. Three specialist agents (concepts, programming, maths) draft their sections, an editor agent compiles the paper, and a professor approves it or sends feedback that is routed back to only the agent that needs to redo its part. | Next.js · TypeScript · LangGraph · Gemini · Tavily · Prisma |
-| 2 | [**FastFlicker**](https://github.com/Rashi18032006/FastFlicker) | Paste a YouTube lecture, get study notes and flashcards. Checks the video's metadata first and refuses non-educational links before spending a single token. | Python · Streamlit · Groq (Llama 3.1) |
-| 3 | [**Quora-style Q&A API**](https://github.com/Rashi18032006/UpGrad-Project-submissions) | Coursework backend: users, questions and answers over REST, with JWT auth and layered controllers, services and DAOs. | Java · Spring Boot · JWT · SQL |
-| 4 | Training & Placement Office, JECRC | 10-month internship: recruiter database, end-to-end placement drives, candidate screening on deadlines. | People · process · follow-through |
+| 📄 | [**DocuMind**](https://github.com/Rashi18032006/DocuMind) | Ask questions about your PDFs and Word files and get answers that cite the exact page. Says "not found" instead of guessing, and includes resume ↔ job matching and meeting summaries. | FastAPI · Supabase pgvector · OpenAI · Next.js |
+| 📝 | [**AI Exam Paper Generator**](https://github.com/Rashi18032006/Exam_Paper-generator) · [live](https://exam-paper-generator-eight.vercel.app) | Three specialist agents draft an exam paper, an editor agent compiles it, and a professor approves it or sends feedback back to just the agent that needs to redo its part. | Next.js · LangGraph · Gemini · Prisma |
+| 🎬 | [**FastFlicker**](https://github.com/Rashi18032006/FastFlicker) | Paste a YouTube lecture, get study notes and flashcards. Filters out non-educational videos before spending a single token. | Python · Streamlit · Groq |
+| 💬 | [**Quora-style Q&A API**](https://github.com/Rashi18032006/UpGrad-Project-submissions) | Coursework backend with users, questions and answers, JWT auth and a layered service design. | Java · Spring Boot · PostgreSQL |
 
-### Index
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
 
-```yaml
-llm:        Gemini · Groq · OpenAI · prompt engineering · structured JSON outputs
-agents:     LangGraph · multi-agent workflows · human-in-the-loop review
-retrieval:  embeddings · vector search (pgvector) · RAG
-backend:    Python · FastAPI · REST APIs · Next.js API routes · Prisma · Spring Boot
-frontend:   TypeScript · React · Next.js · Streamlit
-data:       PostgreSQL · Supabase · MySQL · SQLite
-ship:       Git · Vercel · Streamlit Cloud
-```
-
-<details>
-<summary><b>Model card</b></summary>
-<br>
+### 🌿 Toolshed
 
 | | |
 |---|---|
-| **Intended use** | AI engineering: LLM apps, agent workflows, internal tools, document automation |
-| **Currently training on** | FastAPI, Supabase, evaluating RAG answers properly |
-| **Certifications** | Frontend Development (upGrad) · Algorithm Analysis & Design Thinking (upGrad) · Google Cloud Computing Foundations |
-| **Known limitations** | Still a student; degree lands in 2027. Will ask "why" before "how". |
-| **Reach** | [khandelwalrashi38@gmail.com](mailto:khandelwalrashi38@gmail.com) |
+| **LLMs & agents** | Gemini · Groq · OpenAI · LangGraph · prompt engineering · structured JSON outputs |
+| **Retrieval** | embeddings · pgvector · RAG with citations |
+| **Backend** | Python · FastAPI · REST APIs · Next.js API routes · Prisma · Spring Boot |
+| **Frontend** | TypeScript · React · Next.js · Streamlit |
+| **Data** | PostgreSQL · Supabase · MySQL · SQLite |
+| **Shipping** | Git · Vercel · Streamlit Cloud |
 
-</details>
+### 🌼 In bloom
 
-<sub>answer generated from 4 retrieved sources · index refreshed Nov 2026</sub>
+- Going deeper on FastAPI, Supabase and evaluating RAG answers properly
+- Certifications: Frontend Development (upGrad) · Algorithm Analysis & Design Thinking (upGrad) · Google Cloud Computing Foundations
+
+### 💌 Say hello
+
+[khandelwalrashi38@gmail.com](mailto:khandelwalrashi38@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img alt="" src="assets/divider-light.svg" width="100%">
+</picture>
+
+<p align="center"><sub>planted in Jaipur · tended daily</sub></p>
