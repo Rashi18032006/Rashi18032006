@@ -1,4 +1,4 @@
-<img src="assets/bloom-header.svg" alt="Rashi Khandelwal. B.Tech CSE, JECRC University. Good with code, better with ideas." width="100%">
+<img src="assets/bloom-header-2.svg" alt="Rashi Khandelwal. B.Tech CSE, JECRC University. Good with code, better with ideas." width="100%">
 
 <img src="assets/bloom-title-about.svg" alt="About me">
 
@@ -73,4 +73,4 @@ I've used these a little while building the projects above. I'm still learning a
 
 💌 [khandelwalrashi38@gmail.com](mailto:khandelwalrashi38@gmail.com)
 
-<img src="assets/bloom-footer.svg" alt="Thank you for visiting" width="100%">
+<img src="assets/bloom-footer-2.svg" alt="Thank you for visiting" width="100%">
