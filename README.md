@@ -1,41 +1,73 @@
-<img src="assets/bloom-header.svg" alt="Rashi Khandelwal, AI engineer in training. LLM apps from root to bloom." width="100%">
+<img src="assets/bloom-header.svg" alt="Rashi Khandelwal. B.Tech CSE, JECRC University. Good with code, better with ideas." width="100%">
 
 <img src="assets/bloom-title-about.svg" alt="About me">
 
-I'm a final-year B.Tech Computer Science student at JECRC University, Jaipur. I like taking an idea all the way from a prompt to a product people can use: the agent workflow, the retrieval, the API, the database and the interface on top.
+Hi, I'm Rashi, a final-year B.Tech Computer Science student at JECRC University, Jaipur.
 
-Before writing production code I spent ten months running campus placement drives at the Training & Placement Office. That taught me to own a thing until it ships, and I bring the same habit to software.
+I like turning ideas into small, useful things. Sometimes that means building a little web app, and sometimes it means organising people and getting a plan over the line. I've built a few projects to learn by doing, and spent ten months at my university's Training & Placement Office coordinating campus drives.
 
-🌸 **Currently:** open to AI engineer internships (6 months, remote or on-site) &nbsp;·&nbsp; 📍 Jaipur, India
+🌸 Open to internships and entry-level roles &nbsp;·&nbsp; 📍 Jaipur, India
 
 <img src="assets/bloom-divider.svg" alt="" width="100%">
 
 <img src="assets/bloom-title-projects.svg" alt="Projects">
 
-| | Project | What it does | Built with |
-|:-:|---|---|---|
-| 📄 | [**DocuMind**](https://github.com/Rashi18032006/DocuMind) | Ask questions about your PDFs and Word files and get answers that cite the exact page. Says "not found" instead of guessing, and includes resume ↔ job matching and meeting summaries. | FastAPI · Supabase pgvector · OpenAI · Next.js |
-| 📝 | [**AI Exam Paper Generator**](https://github.com/Rashi18032006/Exam_Paper-generator) · [live](https://exam-paper-generator-eight.vercel.app) | Three specialist agents draft an exam paper, an editor agent compiles it, and a professor approves it or sends feedback back to just the agent that needs to redo its part. | Next.js · LangGraph · Gemini · Prisma |
-| 🎬 | [**FastFlicker**](https://github.com/Rashi18032006/FastFlicker) | Paste a YouTube lecture, get study notes and flashcards. Filters out non-educational videos before spending a single token. | Python · Streamlit · Groq |
-| 💬 | [**Quora-style Q&A API**](https://github.com/Rashi18032006/UpGrad-Project-submissions) | Coursework backend with users, questions and answers, JWT auth and a layered service design. | Java · Spring Boot · PostgreSQL |
+<table>
+<tr>
+<td width="50%" valign="top">
+📄 <b><a href="https://github.com/Rashi18032006/DocuMind">DocuMind</a></b><br>
+Upload PDFs or Word files and ask questions about them. Each answer points to the page it came from.<br><br>
+<sub>🌱 Explored: Python · FastAPI · Supabase · Next.js · OpenAI</sub>
+</td>
+<td width="50%" valign="top">
+📝 <b><a href="https://github.com/Rashi18032006/Exam_Paper-generator">Exam Paper Generator</a></b> · <a href="https://exam-paper-generator-eight.vercel.app">live</a><br>
+Creates an exam paper from a topic and difficulty level, with a review step where a teacher can approve it or ask for changes.<br><br>
+<sub>🌱 Explored: Next.js · TypeScript · Gemini</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🎬 <b><a href="https://github.com/Rashi18032006/FastFlicker">FastFlicker</a></b><br>
+Turns an educational YouTube video into study notes and flashcards.<br><br>
+<sub>🌱 Explored: Python · Streamlit · Groq</sub>
+</td>
+<td width="50%" valign="top">
+💬 <b><a href="https://github.com/Rashi18032006/UpGrad-Project-submissions">Q&amp;A Backend</a></b><br>
+A Quora-style backend for questions, answers and user accounts, built for an upGrad course.<br><br>
+<sub>🌱 Explored: Java · Spring Boot</sub>
+</td>
+</tr>
+</table>
 
 <img src="assets/bloom-divider.svg" alt="" width="100%">
 
-<img src="assets/bloom-title-toolkit.svg" alt="Toolkit">
+<img src="assets/bloom-title-experience.svg" alt="Experience">
 
-| | |
-|---|---|
-| **LLMs & agents** | Gemini · Groq · OpenAI · LangGraph · prompt engineering · structured JSON outputs |
-| **Retrieval** | embeddings · pgvector · RAG with citations |
-| **Backend** | Python · FastAPI · REST APIs · Next.js API routes · Prisma · Spring Boot |
-| **Frontend** | TypeScript · React · Next.js · Streamlit |
-| **Data** | PostgreSQL · Supabase · MySQL · SQLite |
-| **Shipping** | Git · Vercel · Streamlit Cloud |
+🌻 **Intern, Training & Placement Office**, JECRC University <sub>· Mar 2025 – Jan 2026</sub><br>
+Coordinated campus placement drives end to end and kept the recruiter database organised.
 
-<img src="assets/bloom-title-growing.svg" alt="Growing">
+🌻 **HR Intern, Training & Development**, Fortis Escorts Hospital, Jaipur <sub>· Jun 2024</sub><br>
+Supported training workshops, recruitment and onboarding.
 
-- Going deeper on FastAPI, Supabase and evaluating RAG answers properly
-- Certifications: Frontend Development (upGrad) · Algorithm Analysis & Design Thinking (upGrad) · Google Cloud Computing Foundations
+🌻 **Generation Green Awareness Intern**, AICTE × Oppo India × 1M1B <sub>· Aug – Oct 2024</sub><br>
+Planned and ran an e-waste awareness drive across schools in Jaipur.
+
+<img src="assets/bloom-divider.svg" alt="" width="100%">
+
+<img src="assets/bloom-title-tools.svg" alt="Tools I've tried">
+
+I've used these a little while building the projects above. I'm still learning all of them.
+
+**Languages** &nbsp; `Python` `JavaScript` `TypeScript` `Java` `SQL` `HTML` `CSS`<br>
+**Web** &nbsp; `React` `Next.js` `Streamlit` `FastAPI` `Spring Boot`<br>
+**Data** &nbsp; `PostgreSQL` `Supabase` `MySQL`<br>
+**AI tools** &nbsp; `OpenAI` `Gemini` `Groq`<br>
+**Everyday** &nbsp; `Git` `GitHub` `Vercel`
+
+<img src="assets/bloom-title-learning.svg" alt="Learning now">
+
+🌱 Getting more confident with Python and the basics of building for the web<br>
+📜 Certificates: Frontend Development · Blockchain and its Applications · Algorithm Analysis & Design Thinking (upGrad) · Google Cloud Computing Foundations
 
 <img src="assets/bloom-title-hello.svg" alt="Say hello">
 
