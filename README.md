@@ -1,36 +1,27 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Rashi Khandelwal. AI engineer in training. LLM apps from root to bloom." src="assets/header-light.svg" width="100%">
-</picture>
+<img src="assets/pixel-header.svg" alt="Rashi Khandelwal, AI engineer in training. Open to AI internships." width="100%">
 
-### 🌸 Hello, I'm Rashi
+<img src="assets/pixel-title-about.svg" alt="Player info">
 
 I'm a final-year B.Tech Computer Science student at JECRC University, Jaipur. I like taking an idea all the way from a prompt to a product people can use: the agent workflow, the retrieval, the API, the database and the interface on top.
 
 Before writing production code I spent ten months running campus placement drives at the Training & Placement Office. That taught me to own a thing until it ships, and I bring the same habit to software.
 
-> 🌱 **Open to AI engineer internships** (6 months, remote or on-site).
+**Class:** AI engineer in training &nbsp;·&nbsp; **Base:** Jaipur, India &nbsp;·&nbsp; **Status:** 🟢 open to AI engineer internships (6 months, remote or on-site)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
-</picture>
+<img src="assets/pixel-divider.svg" alt="" width="100%">
 
-### 🌷 What I've grown
+<img src="assets/pixel-title-quests.svg" alt="Quests completed">
 
-| | Project | What it does | Built with |
+| | Quest | What it does | Loadout |
 |:-:|---|---|---|
 | 📄 | [**DocuMind**](https://github.com/Rashi18032006/DocuMind) | Ask questions about your PDFs and Word files and get answers that cite the exact page. Says "not found" instead of guessing, and includes resume ↔ job matching and meeting summaries. | FastAPI · Supabase pgvector · OpenAI · Next.js |
 | 📝 | [**AI Exam Paper Generator**](https://github.com/Rashi18032006/Exam_Paper-generator) · [live](https://exam-paper-generator-eight.vercel.app) | Three specialist agents draft an exam paper, an editor agent compiles it, and a professor approves it or sends feedback back to just the agent that needs to redo its part. | Next.js · LangGraph · Gemini · Prisma |
 | 🎬 | [**FastFlicker**](https://github.com/Rashi18032006/FastFlicker) | Paste a YouTube lecture, get study notes and flashcards. Filters out non-educational videos before spending a single token. | Python · Streamlit · Groq |
 | 💬 | [**Quora-style Q&A API**](https://github.com/Rashi18032006/UpGrad-Project-submissions) | Coursework backend with users, questions and answers, JWT auth and a layered service design. | Java · Spring Boot · PostgreSQL |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
-</picture>
+<img src="assets/pixel-divider.svg" alt="" width="100%">
 
-### 🌿 Toolshed
+<img src="assets/pixel-title-inventory.svg" alt="Inventory">
 
 | | |
 |---|---|
@@ -41,18 +32,13 @@ Before writing production code I spent ten months running campus placement drive
 | **Data** | PostgreSQL · Supabase · MySQL · SQLite |
 | **Shipping** | Git · Vercel · Streamlit Cloud |
 
-### 🌼 In bloom
+<img src="assets/pixel-title-level.svg" alt="Leveling up">
 
 - Going deeper on FastAPI, Supabase and evaluating RAG answers properly
 - Certifications: Frontend Development (upGrad) · Algorithm Analysis & Design Thinking (upGrad) · Google Cloud Computing Foundations
 
-### 💌 Say hello
+<img src="assets/pixel-title-contact.svg" alt="Send a signal">
 
-[khandelwalrashi38@gmail.com](mailto:khandelwalrashi38@gmail.com)
+📡 [khandelwalrashi38@gmail.com](mailto:khandelwalrashi38@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
-  <img alt="" src="assets/divider-light.svg" width="100%">
-</picture>
-
-<p align="center"><sub>planted in Jaipur · tended daily</sub></p>
+<img src="assets/pixel-footer.svg" alt="Thanks for visiting" width="100%">
